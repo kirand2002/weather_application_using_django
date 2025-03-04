@@ -22,7 +22,7 @@ A simple weather application that fetches real-time weather data using a weather
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/kirand2002/weather_application_using_django.git
    cd weather-app
    ```
 
@@ -57,10 +57,13 @@ A simple weather application that fetches real-time weather data using a weather
 
 ## 🌍 Live Demo
 
-[Click here to view the live demo](https://your-live-link.com)
+[Click below link to view the live demo]
+
+https://weather-application-using-django.onrender.com
 
 ## 📷 Screenshots
 
+![Screenshot (6)](https://github.com/user-attachments/assets/40f41954-55dd-40ca-b81d-bd7c55918f96)
 
 
 ## 🤝 Contributing
