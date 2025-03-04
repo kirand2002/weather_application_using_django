@@ -3,7 +3,7 @@ import requests
 
 def home(request):
     city = request.GET.get('city', 'bangalore') 
-    api_key = 'b87770e0c526050cc7426cd23fa9cf28'
+    api_key = '49cf1ccc5f965cb2cb2a22c8f39e0fdd'
     url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric'
 
     api = requests.get(url).json()
